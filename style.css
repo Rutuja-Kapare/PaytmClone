@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 600px;
+}
+.left{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
